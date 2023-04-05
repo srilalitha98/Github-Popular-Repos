@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.notification-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #64748b;
+  border-radius: 4px;
+  width: 500px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 15px;
+}
